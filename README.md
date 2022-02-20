@@ -1,2 +1,3 @@
 # QA_test_task
-Recruitment tasks
+
+[Część 3 - trello board](https://trello.com/b/7SssE4DE/skygateqatesttask)
